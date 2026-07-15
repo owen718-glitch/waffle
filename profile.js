@@ -11,7 +11,7 @@ If you do not have a link yet, leave that section as an empty list: []
 */
 
 const studentProfile = {
-  name: "Your Name",
+  name: "Owen RoyFarrug",
 
   tagline: "DREAM-High Scholar | Computational Biology Portfolio",
 
@@ -43,7 +43,7 @@ const studentProfile = {
     },
     {
       title: "Finding Patterns with Heatmaps",
-      url: "https://rpubs.com/"
+      url: "https://rpubs.com/owen718/1446207"
     }
   ],
 
